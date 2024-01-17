@@ -3,10 +3,10 @@
 <p align="center">✨ Contacta conmigo ✨</p>
 
 <p align="center">
-  <a href="mailto:evelyncc132002@gmail.com">
+  <a href="mailto:programadora.py@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico">
   </a>
-  <a href="https://www.linkedin.com/in/evelyn-calcines-464828292/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.instagram.com/programadora.py/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
