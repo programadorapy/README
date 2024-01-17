@@ -1,4 +1,4 @@
-![Banner de LinkedIn]()
+![Banner de LinkedIn](https://github.com/programadorapy/README/blob/main/Pink%20White%20Aesthetic%20Minimalist%20Linkedin%20Banner.png)
 
 <p align="center">✨ Contacta conmigo ✨</p>
 
